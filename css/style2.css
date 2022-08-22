@@ -1,0 +1,160 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+body{
+    background-color: white;
+    font-family: "Trebuchet MS",helvetica, sans-serif;
+    margin:0px;
+    border:0px solid white;
+    
+}
+
+#cabecalho{
+    background-color:#f7b600;
+    text-align:center;
+    color:white;
+    padding:15px;
+}
+
+#logo{
+    border: 0px solid pink;
+    text-align:center;
+}
+
+#menu{
+    border: 0px solid pink;
+    padding:15px;
+    margin-top:15px;
+}
+
+.item_menu{
+    color:white;
+    text-decoration:none;
+    padding:7px;
+}
+
+.item_menu:hover{
+    background-color:white;
+    color:rgb(64, 197, 31);
+}
+
+h1{
+    font-size:40px;
+    margin-top:5px;
+}
+
+#conteudo{
+	background-color:white;
+	width:665px;
+	margin: 0 auto;
+}
+
+#conteudo_esquerdo{
+	border:2px solid rgb(64, 197, 31);
+	width:660px;
+	float:left;
+    box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.233);
+    border-radius: 5px;
+}
+
+
+#selecao{
+    width: 600px;
+    height: auto;
+    padding: 15px;
+}
+
+#selecao1{
+    width: 300px;
+    padding: 15px;
+    position: block;
+    margin-left: 16vh;
+    text-align: center;
+
+}
+
+#selecao2{
+    width: 300px;
+    padding: 15px;
+    position: block;
+    margin-left: -1vh;
+    text-align: center;
+
+}
+
+#mascote{
+    position: relative;
+    
+}
+
+#argentina{
+    width: 250px;
+    float: left;
+    padding: 25px;
+}
+
+
+#conteudo_direito{
+	border:2px solid rgb(64, 197, 31);
+	width:270px;
+	float:right;
+	box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.233);
+    border-radius: 5px;
+}   
+
+#rodape{
+	background-color:#f7b600;
+	clear:both;
+    padding: 5px;
+    text-align: center;
+}
+
+#postagem{
+	background-color:white;
+	padding:10px;
+}
+
+h3{
+	color:#f7b600;
+}
+
+span{
+	margin-top:10px;
+}
+
+a{
+	color:#f7b600;
+}
+
+hr{
+	margin-bottom:15px;
+}
+
+.postagem_direita{
+	background-color:white;
+	height:250px;
+    width: 250px;
+	border: 1px solid #f7b600;
+	margin:10px;
+    border-radius: 5px;
+}
+
+.titulo{
+	background-color:#f7b600;
+	color:white;
+	padding:5px;
+	margin:10px;
+    text-align: center;
+    border-radius: 2px;
+}
+
+.postagem_direita1{
+	background-color:white;
+	height:150px;
+    width: 250px;
+	border: 1px solid #f7b600;
+	margin:10px;
+    border-radius: 5px;
+}
